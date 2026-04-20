@@ -8,6 +8,10 @@ AI4M 3+X 讨论班第三讲讲义
 |------|------|
 | `AI4MathLeanSeminar/Demo.lean` |主演示文件，含所有例子与练习|
 
+## 安装 Lean 4
+
+如需在本地安装 Lean，请参考[快速入门指南](https://lean-lang.org/install/)中的安装说明。
+
 ## 常用链接
 
 - [Lean community 主页](https://leanprover-community.github.io)
